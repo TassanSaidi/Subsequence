@@ -1,9 +1,5 @@
 
 7
 java:S1220""Move this file to a named package.8ÿˆÝ¬è2
-L	java:S106"+Replace this use of System.out by a logger.(á‹å¨úÿÿÿÿ8£‰Ý¬è2
-G	java:S1061"+Replace this use of System.out by a logger.(›ËÕî8¦‰Ý¬è2
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¦‰Ý¬è2
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¦‰Ý¬è2
+L	java:S106"+Replace this use of System.out by a logger.(á‹å¨úÿÿÿÿ8£‰Ý¬è2
+G	java:S106$"+Replace this use of System.out by a logger.(›ËÕî8¦‰Ý¬è2
